@@ -42,7 +42,7 @@ https://github.com/coderSC0TT/night-mic/releases/tag/v1.1
 
 
 
-## ⚡ 源代码构建
+## ⚡ 如需DIY-源代码构建
 ### 1.克隆或下载此仓库到本地 确保你的 Python 版本在 3.8 及以上
 ### 2.安装必要的 Python 库：pip install sounddevice numpy pyttsx3 keyboard
 ### 3.运行程序main.py
